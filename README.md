@@ -31,8 +31,6 @@ Let’s build something thoughtful.
 ![](https://nirzak-streak-stats.vercel.app/?user=swapisticated&theme=city_lights&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapisticated&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=swapisticated&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=swapisticated&limit=5&theme=dark&combine_all_yearly_contributions=true)
